@@ -15,6 +15,6 @@ pod install
 
 cd ..
 
-react-native-run-ios
+react-native run-ios
 
 
